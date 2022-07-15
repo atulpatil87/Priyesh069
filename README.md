@@ -29,6 +29,11 @@ My name is Atul Patil and I'm a Software Tester. I'm from Jalgaon, Maharashtra, 
   GIT
   <br>
   Automation
+  <br>
+  HTML
+  <br>
+  SQL
+  <br>
   
 </p>
 
