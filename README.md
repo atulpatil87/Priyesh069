@@ -8,7 +8,7 @@
 </a>
 
 
-My name is Atul Patil and I'm a Software Tester. I'm from Jalgaon, Maharashtra, currently working in MiM-essay at Delhi, India.
+My name is Atul Patil and I'm a Software Tester. I'm from Jalgaon, Maharashtra, currently working in MiM-essay Company at Delhi, India.
 
 <img align="right" alt="GIF" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="500" height="320" />
 
