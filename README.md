@@ -10,7 +10,7 @@
 
 My name is Atul Patil and I'm a Software Tester. I'm from Jalgaon, Maharashtra, currently working in MiM-essay Company at Delhi, India.
 
-<img align="right" alt="" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 --->
