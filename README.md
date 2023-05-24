@@ -8,7 +8,28 @@
 </a>
 
 
-My name is Atul Patil and I'm a Software Tester. I'm from Jalgaon, Maharashtra, currently working in MiM-essay Company at Delhi, India.
+### Hi there, I'm Atul Patil! 👋
+
+I'm a passionate software tester and web developer hailing from Jalgaon, Maharashtra. Currently, I'm working at MiM-Essay company located in South Delhi, where I combine my skills in testing and development to deliver high-quality software solutions.
+
+💻 As a Software Tester:
+- I meticulously test software applications, ensuring their functionality, usability, and performance meet the highest standards.
+- I have a keen eye for detail and a systematic approach to identify and resolve bugs, ensuring smooth user experiences.
+- My expertise includes test planning, test case design, test execution, and defect tracking.
+
+🌐 As a Web Developer:
+- I have hands-on experience in building responsive and dynamic web applications using modern technologies such as HTML, CSS, JavaScript, and frameworks like React.
+- I enjoy creating user-friendly interfaces that offer engaging experiences while maintaining a focus on performance and accessibility.
+
+🌟 I'm an avid learner and always eager to explore new technologies and expand my skill set. Staying up-to-date with the latest industry trends is something I'm deeply passionate about.
+
+📚 Apart from my professional endeavors, I love to engage in tech communities, collaborate on open-source projects, and share my knowledge with fellow developers.
+
+🌍 Connect with me:
+- GitHub: [GitHub](https://github.com/priyesh069)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/atul-patil-6202676b/)
+
+Let's connect and collaborate on exciting projects, share ideas, and make an impact together!
 
 <img align="right" alt="GIF" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="500" height="320" />
 
