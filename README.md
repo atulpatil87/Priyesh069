@@ -10,7 +10,7 @@
 
 ### Hi there, I'm Atul Patil! 👋
 
-I'm a passionate software tester and web developer hailing from Jalgaon, Maharashtra. Currently, I'm working at MiM-Essay company located in South Delhi, where I combine my skills in testing and development to deliver high-quality software solutions.
+I'm a passionate software tester and web developer. Currently, I'm working at MiM-Essay company located in South Delhi, where I combine my skills in testing and development to deliver high-quality software solutions.
 
 💻 As a Software Tester:
 - I meticulously test software applications, ensuring their functionality, usability, and performance meet the highest standards.
