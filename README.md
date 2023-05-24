@@ -18,7 +18,7 @@ I'm a passionate software tester and web developer hailing from Jalgaon, Maharas
 - My expertise includes test planning, test case design, test execution, and defect tracking.
 
 🌐 As a Web Developer:
-- I have hands-on experience in building responsive and dynamic web applications using modern technologies such as HTML, CSS, JavaScript, and frameworks like React.
+- I have hands-on experience in building responsive and dynamic web applications using modern technologies such as HTML, CSS, JavaScript.
 - I enjoy creating user-friendly interfaces that offer engaging experiences while maintaining a focus on performance and accessibility.
 
 🌟 I'm an avid learner and always eager to explore new technologies and expand my skill set. Staying up-to-date with the latest industry trends is something I'm deeply passionate about.
