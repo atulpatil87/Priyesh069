@@ -1,7 +1,7 @@
 ## Hey there ! <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px">  -->
 
 <a href="https://twitter.com/priyesh069">
-  <img align="left" alt="Atul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg?raw=true" />
+ <!-- <img align="left" alt="Atul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg?raw=true" /> -->
 </a>
 <a href="https://www.linkedin.com/in/atul-patil-6202676b/">
   <img align="left" alt="Atul LinkedIN" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />
