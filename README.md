@@ -26,7 +26,7 @@ I'm a passionate software tester and web developer. Currently, I'm working at Mi
 📚 Apart from my professional endeavors, I love to engage in tech communities, collaborate on open-source projects, and share my knowledge with fellow developers.
 
 🌍 Connect with me:
-- [x](https://github.com/atulp4til87)
+- [x](https://x.com/atulp4til87)
 - [LinkedIn](https://www.linkedin.com/in/atul-patil-6202676b/)
 
 Let's connect and collaborate on exciting projects, share ideas, and make an impact together!
